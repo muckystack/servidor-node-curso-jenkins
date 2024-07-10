@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Directorio /node_modules/
+node_modules/
+
+# Entorno del servidor
+.env
+
+# Directorios del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Directorios temporales
+tmp/
+temp/
+
+# Caches de paquetes
+.cache/
+dist/
+
+# IDEs y editores específicos
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignorar archivos de testeo
+coverage/
+
